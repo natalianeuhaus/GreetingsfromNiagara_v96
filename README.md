@@ -8,7 +8,7 @@ GitHub Pages package for the Niagara industrial and radiological history map.
 
 - Restored Rattlesnake Creek with a revised trace based on the supplied USACE map
 - Restored Two Mile Creek from the Niagara River south to the Kenmore Avenue area
-- Added clickable popups with radiological context and supporting DOE/NYSDEC links 
+- Added clickable popups with radiological context and supporting DOE/NYSDEC links  
 - Added separate legend and layer-control entries for the two waterways
 - Retained clear warnings that the traces are approximate documentary overlays, not surveyed GIS centerlines or contamination boundaries
 
